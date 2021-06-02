@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+sklearn
+nltk
+matplotlib
+networkx
+node2vec
